@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
+"""
+__copyright__ = "Copyright 2023, Pomfort GmbH"
+__license__ = "MIT"
+__email__ = "opensource@pomfort.com"
+"""
 #
-# ShotHub API sample script #2: Group clips by camera and export some metadata for statistics
+# ShotHub API sample script #2: Summarize clip durations per camera
 #
 # (c) 2023 Pomfort GmbH, https://pomfort.com/
 #

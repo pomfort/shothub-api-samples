@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+__copyright__ = "Copyright 2023, Pomfort GmbH"
+__license__ = "MIT"
+__email__ = "opensource@pomfort.com"
+"""
 #
 # ShotHub API sample script #0: Print the folder structure for one or more projects
 #

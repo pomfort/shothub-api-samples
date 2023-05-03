@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
+"""
+__copyright__ = "Copyright 2023, Pomfort GmbH"
+__license__ = "MIT"
+__email__ = "opensource@pomfort.com"
+"""
 #
-# ShotHub API sample script #3: Export clip metadata
+# ShotHub API sample script #1: Document a shooting day with per-clip metadata
 #
 # (c) 2023 Pomfort GmbH, https://pomfort.com/
 #

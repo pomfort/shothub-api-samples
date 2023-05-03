@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""
+__copyright__ = "Copyright 2023, Pomfort GmbH"
+__license__ = "MIT"
+__email__ = "opensource@pomfort.com"
+"""
 # configuration - please enter your credentials here, or set the environment variables
 # 'SH_API_SCRIPT_ID' and 'SH_API_SCRIPT_KEY' to override the values given here
 creds = {

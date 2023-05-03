@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+__copyright__ = "Copyright 2023, Pomfort GmbH"
+__license__ = "MIT"
+__email__ = "opensource@pomfort.com"
+"""
 #
 # This script contains some helper functions for dealing with common tasks (e.g. authentication) when using the ShotHub
 # API. Please feel free to use it as a basis for your own scripts.

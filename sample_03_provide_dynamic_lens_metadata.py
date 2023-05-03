@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
+"""
+__copyright__ = "Copyright 2023, Pomfort GmbH"
+__license__ = "MIT"
+__email__ = "opensource@pomfort.com"
+"""
 #
-# ShotHub API sample script #4: Download dynamic metadata for all flagged clips from a selected shooting day
+# ShotHub API sample script #3: Provide dynamic lens metadata
 #
 # (c) 2022 - 2023 Pomfort GmbH, https://pomfort.com/
 #
