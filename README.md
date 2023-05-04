@@ -21,4 +21,4 @@ and CSV files. You can use this as a basis for your own script.
 # Further resources
 * API Quickstart Guide: https://kb.pomfort.com/shothub/sh-api/quick-start/
 * API Documentation: https://shothub.pomfort.com/openapi/ui.html
-* More information about these sample scripts: (add link once the blogpost is live)
+* More information about these sample scripts: http://pomfort.com/article/four-ways-productions-can-benefit-from-shothubs-rest-api/
